@@ -1,0 +1,8 @@
+module.exports = [
+  900,
+  "0x1b44f3514812d835eb1bdb0acb33d3fa3351ee43",
+  "0x8103b0a8a00be2ddc778e6e7eaa21791cd364625",
+  2826,
+  "0x474e34a077df58807dbe9c96d3c009b23b3c6d0cce433e59bbf5b34f823bc56c",
+  500000,
+];
